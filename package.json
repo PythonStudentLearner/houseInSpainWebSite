@@ -13,5 +13,23 @@
     "jade": "~1.9.1",
     "morgan": "~1.5.1",
     "serve-favicon": "~2.2.0"
-  }
+  },
+  "description": "houseInSpainWebSite",
+  "main": "app.js",
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/PythonStudentLearner/houseInSpainWebSite.git"
+  },
+  "keywords": [
+    "express",
+    "node",
+    "boostrap"
+  ],
+  "author": "KCK",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/PythonStudentLearner/houseInSpainWebSite/issues"
+  },
+  "homepage": "https://github.com/PythonStudentLearner/houseInSpainWebSite"
 }
